@@ -24,6 +24,8 @@ The image below shows the intended layout of the mock landing page:
 
 ![Intended landing page screenshot](https://github.com/ibanezlewis/accessibility-challenge/blob/main/assets/images/intended-landing-page-screenshot.png)
 
+You can [view the example landing page here](https://ibanezlewis.github.io/accessibility-challenge/).
+
 By tapping one of the links, you'll be directed to the appropriate section of the landing page.
 
 The HTML shows what content the page is made up of, and the CSS is appropriately commented to show which area the CSS affects.
