@@ -23,7 +23,7 @@ To setup this repository, simply download the files top your local machine and u
 The image below shows the intended layout of the mock landing page:
 
 ```md
-![Intended landing page screenshot](assets/images/intended-landing-page-screenshot.png)
+![Intended landing page screenshot](https://github.com/ibanezlewis/accessibility-challenge/blob/main/assets/images/intended-landing-page-screenshot.png)
 ```
 By tapping one of the links, you'll be directed to the appropriate section of the landing page.
 
